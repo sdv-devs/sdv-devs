@@ -658,6 +658,11 @@ img.time-img {
 }
 
 @media (min-width: 1480px) {
+  img.Metrics-img {
+    width: 60%;
+    margin-top: 0px;
+  }
+
   .header-img img {
     width: 750px;
     padding-right: 3.3%;
